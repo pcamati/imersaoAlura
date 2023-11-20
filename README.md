@@ -1,0 +1,1 @@
+Each folder contains the exercises of the lectures given by Alura in their free bootcamp on JavaScript from 13th to 17th of November, 2023.
